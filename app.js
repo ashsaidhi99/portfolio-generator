@@ -21,6 +21,5 @@ const generatePage = (name, github) => {
 
 const [name, github] = profileDataArgs;
 
-console.log(generatePage(name, github));
 console.log(name, github);
 console.log(generatePage(name, github));
